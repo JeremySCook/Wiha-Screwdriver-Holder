@@ -5,7 +5,7 @@ Meant for Wiha screwdriver set: https://amzn.to/2HOYz5O (Amazon affiliate)
 
 Disk magnets: https://amzn.to/2Vc97ir (Amazon affiliate)
 
-Video: TBA
+Video: https://www.youtube.com/watch?v=QjA3tnB8_y4
 
 ![](https://github.com/JeremySCook/Wiha-Screwdriver-Holder/blob/master/screwdriver-sketch.jpg)
 
