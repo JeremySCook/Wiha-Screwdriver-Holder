@@ -2,6 +2,7 @@
 Holder for Wiha Screwdrivers. Magnetic.
 
 Meant for Wiha screwdriver set: https://amzn.to/2HOYz5O (Amazon affiliate)
+
 Disk magnets: https://amzn.to/2Vc97ir (Amazon affiliate)
 
 Video: TBA
